@@ -108,20 +108,6 @@
   </url>
   
   <url>
-    <loc>/zh/author/shuai-wang/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/shuai-wang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/shuai-wang/"
-                />
-  </url>
-  
-  <url>
     <loc>/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -132,6 +118,20 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/author/%E7%8E%8B-%E5%B8%85/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/shuai-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E7%8E%8B-%E5%B8%85/"
                 />
   </url>
   
