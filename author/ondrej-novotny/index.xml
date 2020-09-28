@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ondřej Novotný | Academic</title>
+    <link>/author/ondrej-novotny/</link>
+      <atom:link href="/author/ondrej-novotny/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ondřej Novotný</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jun 2020 13:40:56 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ondřej Novotný</title>
+      <link>/author/ondrej-novotny/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of ABC Submission to NIST SRE 2019 CMN and VAST Challenge</title>
+      <link>/publication/2020-nistsre/</link>
+      <pubDate>Fri, 26 Jun 2020 13:40:56 +0800</pubDate>
+      <guid>/publication/2020-nistsre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>But System for the Second Dihard Speech Diarization Challenge</title>
+      <link>/publication/2020-icassp-dihard/</link>
+      <pubDate>Thu, 25 Jun 2020 21:46:02 +0800</pubDate>
+      <guid>/publication/2020-icassp-dihard/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

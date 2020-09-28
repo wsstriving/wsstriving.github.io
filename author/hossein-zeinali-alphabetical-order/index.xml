@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hossein Zeinali (alphabetical order) | Academic</title>
+    <link>/author/hossein-zeinali-alphabetical-order/</link>
+      <atom:link href="/author/hossein-zeinali-alphabetical-order/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hossein Zeinali (alphabetical order)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jun 2020 13:40:56 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hossein Zeinali (alphabetical order)</title>
+      <link>/author/hossein-zeinali-alphabetical-order/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of ABC Submission to NIST SRE 2019 CMN and VAST Challenge</title>
+      <link>/publication/2020-nistsre/</link>
+      <pubDate>Fri, 26 Jun 2020 13:40:56 +0800</pubDate>
+      <guid>/publication/2020-nistsre/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2020-taslp/</loc>
+    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kai-yu/</loc>
+    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/shuai-wang/</loc>
+    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yanmin-qian/</loc>
+    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yexin-yang/</loc>
+    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zhanghao-wu/</loc>
+    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2020-07-28T20:42:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020-is-spoof/</loc>
+    <lastmod>2020-07-28T20:42:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/heinrich-dinkel/</loc>
+    <lastmod>2020-07-28T20:42:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hongji-wang/</loc>
+    <lastmod>2020-07-28T20:42:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yanmin-qian-and-kai-yu/</loc>
+    <lastmod>2020-07-28T20:42:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2020-07-28T20:41:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020-is-avn/</loc>
+    <lastmod>2020-07-28T20:41:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shuai-wang-and-yanmin-qian/</loc>
+    <lastmod>2020-07-28T20:41:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zhengyang-chen/</loc>
+    <lastmod>2020-07-28T20:41:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020-is-psn/</loc>
+    <lastmod>2020-07-28T20:41:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alicia-lozano-diez/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020-nistsre/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anna-silnova/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cedric-noiseux/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gilles-boulianne/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hossein-zeinali-alphabetical-order/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jahangir-alam/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joao-monteiro/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/johan-rohdin/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/josef-slav%C4%B1cek/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ladislav-mosner/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lukas-burget/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marc-lalonde/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mireia-diez/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mohamed-dahmane/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/oldrich-plchot/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ondrej-glembek/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ondrej-novotny/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pavel-matejka/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/petr-mizera/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pierre-luc-st-charles/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/themos-stafylakis/</loc>
+    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020-icassp-dihard/</loc>
+    <lastmod>2020-06-25T21:46:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-25T21:46:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/category/diarization/</loc>
+    <lastmod>2020-06-25T21:46:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/federico-landini/</loc>
+    <lastmod>2020-06-25T21:46:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hossein-zeinali/</loc>
+    <lastmod>2020-06-25T21:46:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/katerina-zmolikova/</loc>
+    <lastmod>2020-06-25T21:46:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/honza-cernocky/</loc>
+    <lastmod>2020-06-25T21:45:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020-icassp-vb/</loc>
+    <lastmod>2020-06-25T21:45:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/sel/</loc>
+    <lastmod>2020-06-25T21:45:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020-icassp-adapt/</loc>
+    <lastmod>2020-06-25T21:45:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xun-gong/</loc>
+    <lastmod>2020-06-25T21:45:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020-icassp-channel/</loc>
+    <lastmod>2020-06-25T21:45:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020-icassp-specaug/</loc>
+    <lastmod>2020-06-25T21:45:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jan-cernocky/</loc>
+    <lastmod>2020-06-25T21:45:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/sid/</loc>
+    <lastmod>2020-06-25T21:45:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-voxceleb/</loc>
+    <lastmod>2019-06-26T13:31:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-taslp/</loc>
+    <lastmod>2019-06-25T23:56:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zili-huang/</loc>
+    <lastmod>2019-06-25T23:56:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/houjun-huang/</loc>
+    <lastmod>2019-06-25T23:26:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-apsipa/</loc>
+    <lastmod>2019-06-25T23:26:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xu-xiang/</loc>
+    <lastmod>2019-06-25T23:26:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-icassp/</loc>
+    <lastmod>2019-06-25T23:23:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tianzhe-wang/</loc>
+    <lastmod>2019-06-25T23:23:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-ncmmsc-vad/</loc>
+    <lastmod>2019-06-25T23:20:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/vad/</loc>
+    <lastmod>2019-06-25T23:20:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yefei-chen/</loc>
+    <lastmod>2019-06-25T23:20:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/antispoof/</loc>
+    <lastmod>2019-06-25T22:40:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-is-asvspoof/</loc>
+    <lastmod>2019-06-25T22:40:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-is-vb/</loc>
+    <lastmod>2019-06-25T22:39:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-is-spoof/</loc>
+    <lastmod>2019-06-25T22:39:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-is-vae/</loc>
+    <lastmod>2019-06-25T22:39:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-is-phoneme/</loc>
+    <lastmod>2019-06-25T22:38:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chao-weng/</loc>
+    <lastmod>2018-06-25T23:50:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-fitee/</loc>
+    <lastmod>2018-06-25T23:50:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shuai-wang-and-dong-yu/</loc>
+    <lastmod>2018-06-25T23:50:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xuankai-chang/</loc>
+    <lastmod>2018-06-25T23:50:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-interspeech/</loc>
+    <lastmod>2018-06-25T23:32:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-iscide/</loc>
+    <lastmod>2018-06-25T23:32:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-iscslp-dda/</loc>
+    <lastmod>2018-06-25T23:32:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-iscslp-gan/</loc>
+    <lastmod>2018-06-25T23:32:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/man-sun/</loc>
+    <lastmod>2018-06-25T23:32:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-icassp-cocktail/</loc>
+    <lastmod>2018-06-25T23:30:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-icassp-joint/</loc>
+    <lastmod>2018-06-25T23:29:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-apsipa/</loc>
+    <lastmod>2017-06-25T23:50:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xiaowei-jiang/</loc>
+    <lastmod>2017-06-25T23:50:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-interspeech/</loc>
+    <lastmod>2017-06-25T18:01:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nelson-bighetti/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/nelson-bighetti/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/nelson-bighetti/"
+                />
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+</urlset>

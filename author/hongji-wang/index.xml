@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongji Wang | Academic</title>
+    <link>/author/hongji-wang/</link>
+      <atom:link href="/author/hongji-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongji Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jul 2020 20:42:06 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hongji Wang</title>
+      <link>/author/hongji-wang/</link>
+    </image>
+    
+    <item>
+      <title>Dual-adversarial domain adaptation for generalized replay attack detection</title>
+      <link>/publication/2020-is-spoof/</link>
+      <pubDate>Tue, 28 Jul 2020 20:42:06 +0800</pubDate>
+      <guid>/publication/2020-is-spoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SJTU Robust Anti-Spoofing System for the ASVspoof 2019 Challenge</title>
+      <link>/publication/2019-is-asvspoof/</link>
+      <pubDate>Tue, 25 Jun 2019 22:40:14 +0800</pubDate>
+      <guid>/publication/2019-is-asvspoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Domain Replay Spoofing Attack Detection Using Domain Adversarial Training</title>
+      <link>/publication/2019-is-spoof/</link>
+      <pubDate>Tue, 25 Jun 2019 22:39:54 +0800</pubDate>
+      <guid>/publication/2019-is-spoof/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

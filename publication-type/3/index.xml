@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Academic</title>
+    <link>/publication-type/3/</link>
+      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jul 2020 20:42:06 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Dual-adversarial domain adaptation for generalized replay attack detection</title>
+      <link>/publication/2020-is-spoof/</link>
+      <pubDate>Tue, 28 Jul 2020 20:42:06 +0800</pubDate>
+      <guid>/publication/2020-is-spoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Domain Adaptation for Speaker Verification using Partially Shared Network</title>
+      <link>/publication/2020-is-psn/</link>
+      <pubDate>Tue, 28 Jul 2020 20:41:36 +0800</pubDate>
+      <guid>/publication/2020-is-psn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

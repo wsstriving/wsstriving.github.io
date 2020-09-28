@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanmin Qian | Academic</title>
+    <link>/author/yanmin-qian/</link>
+      <atom:link href="/author/yanmin-qian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanmin Qian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 22:46:42 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yanmin Qian</title>
+      <link>/author/yanmin-qian/</link>
+    </image>
+    
+    <item>
+      <title>Data Augmentation using Deep Generative Models for Embedding based Speaker Recognition</title>
+      <link>/publication/2020-taslp/</link>
+      <pubDate>Thu, 30 Jul 2020 22:46:42 +0800</pubDate>
+      <guid>/publication/2020-taslp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Adaptation for Speaker Verification with Speaker-Text Factorized Embeddings</title>
+      <link>/publication/2020-icassp-adapt/</link>
+      <pubDate>Thu, 25 Jun 2020 21:45:52 +0800</pubDate>
+      <guid>/publication/2020-icassp-adapt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel Invariant Speaker Embedding Learning with Joint Multi-Task and Adversarial Training</title>
+      <link>/publication/2020-icassp-channel/</link>
+      <pubDate>Thu, 25 Jun 2020 21:45:45 +0800</pubDate>
+      <guid>/publication/2020-icassp-channel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative Neural Embedding Learning for Short-Duration Text-Independent Speaker Verification</title>
+      <link>/publication/2019-taslp/</link>
+      <pubDate>Tue, 25 Jun 2019 23:56:06 +0800</pubDate>
+      <guid>/publication/2019-taslp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margin matters: Towards more discriminative deep neural network embeddings for speaker recognition</title>
+      <link>/publication/2019-apsipa/</link>
+      <pubDate>Tue, 25 Jun 2019 23:26:44 +0800</pubDate>
+      <guid>/publication/2019-apsipa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SJTU Robust Anti-Spoofing System for the ASVspoof 2019 Challenge</title>
+      <link>/publication/2019-is-asvspoof/</link>
+      <pubDate>Tue, 25 Jun 2019 22:40:14 +0800</pubDate>
+      <guid>/publication/2019-is-asvspoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Domain Replay Spoofing Attack Detection Using Domain Adversarial Training</title>
+      <link>/publication/2019-is-spoof/</link>
+      <pubDate>Tue, 25 Jun 2019 22:39:54 +0800</pubDate>
+      <guid>/publication/2019-is-spoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation Using Variational Autoencoder for Embedding Based Speaker Verification</title>
+      <link>/publication/2019-is-vae/</link>
+      <pubDate>Tue, 25 Jun 2019 22:39:26 +0800</pubDate>
+      <guid>/publication/2019-is-vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Usage of Phonetic Information for Text-independent Speaker Embedding Extraction</title>
+      <link>/publication/2019-is-phoneme/</link>
+      <pubDate>Tue, 25 Jun 2019 22:38:51 +0800</pubDate>
+      <guid>/publication/2019-is-phoneme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Past review, current progress, and challenges ahead on the cocktail party problem</title>
+      <link>/publication/2018-fitee/</link>
+      <pubDate>Mon, 25 Jun 2018 23:50:02 +0800</pubDate>
+      <guid>/publication/2018-fitee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covariance based deep feature for text-dependent speaker verification</title>
+      <link>/publication/2018-iscide/</link>
+      <pubDate>Mon, 25 Jun 2018 23:32:16 +0800</pubDate>
+      <guid>/publication/2018-iscide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Adversarial Networks based X-vector Augmentation for Robust Probabilistic Linear Discriminant Analysis in Speaker Verification</title>
+      <link>/publication/2018-iscslp-gan/</link>
+      <pubDate>Mon, 25 Jun 2018 23:32:02 +0800</pubDate>
+      <guid>/publication/2018-iscslp-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focal KL-divergence based dilated convolutional neural networks for co-channel speaker identification</title>
+      <link>/publication/2018-icassp-cocktail/</link>
+      <pubDate>Mon, 25 Jun 2018 23:30:07 +0800</pubDate>
+      <guid>/publication/2018-icassp-cocktail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint i-vector with end-to-end system for short-duration text-independent speaker verification</title>
+      <link>/publication/2018-icassp-joint/</link>
+      <pubDate>Mon, 25 Jun 2018 23:29:59 +0800</pubDate>
+      <guid>/publication/2018-icassp-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Online i-vector into GMM-UBM for Text-dependent Speaker Verification</title>
+      <link>/publication/2017-apsipa/</link>
+      <pubDate>Sun, 25 Jun 2017 23:50:09 +0800</pubDate>
+      <guid>/publication/2017-apsipa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

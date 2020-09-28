@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuai Wang and Yanmin Qian | Academic</title>
+    <link>/author/shuai-wang-and-yanmin-qian/</link>
+      <atom:link href="/author/shuai-wang-and-yanmin-qian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuai Wang and Yanmin Qian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jul 2020 20:41:42 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shuai Wang and Yanmin Qian</title>
+      <link>/author/shuai-wang-and-yanmin-qian/</link>
+    </image>
+    
+    <item>
+      <title>Multi-modality Matters: A Performance Leap on VoxCeleb</title>
+      <link>/publication/2020-is-avn/</link>
+      <pubDate>Tue, 28 Jul 2020 20:41:42 +0800</pubDate>
+      <guid>/publication/2020-is-avn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Domain Adaptation for Speaker Verification using Partially Shared Network</title>
+      <link>/publication/2020-is-psn/</link>
+      <pubDate>Tue, 28 Jul 2020 20:41:36 +0800</pubDate>
+      <guid>/publication/2020-is-psn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

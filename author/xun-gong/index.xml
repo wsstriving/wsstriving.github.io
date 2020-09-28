@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xun Gong | Academic</title>
+    <link>/author/xun-gong/</link>
+      <atom:link href="/author/xun-gong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xun Gong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jun 2020 21:45:52 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xun Gong</title>
+      <link>/author/xun-gong/</link>
+    </image>
+    
+    <item>
+      <title>Text Adaptation for Speaker Verification with Speaker-Text Factorized Embeddings</title>
+      <link>/publication/2020-icassp-adapt/</link>
+      <pubDate>Thu, 25 Jun 2020 21:45:52 +0800</pubDate>
+      <guid>/publication/2020-icassp-adapt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
