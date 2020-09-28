@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/zh/post/</loc>
+    <lastmod>2020-07-22T13:40:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/post/twenty-seven/</loc>
+    <lastmod>2020-07-22T13:40:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/</loc>
+    <lastmod>2020-07-22T13:40:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
+                />
+  </url>
+  
+  <url>
     <loc>/zh/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -27,20 +62,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/post/"
                 />
   </url>
   
@@ -111,20 +132,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/"
                 />
   </url>
   
