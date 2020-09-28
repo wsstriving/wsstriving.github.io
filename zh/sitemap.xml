@@ -31,20 +31,6 @@
   </url>
   
   <url>
-    <loc>/zh/author/nelson-bighetti/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/nelson-bighetti/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/nelson-bighetti/"
-                />
-  </url>
-  
-  <url>
     <loc>/zh/post/</loc>
     <xhtml:link
                 rel="alternate"
@@ -97,6 +83,20 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/author/shuai-wang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/shuai-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/shuai-wang/"
                 />
   </url>
   

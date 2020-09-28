@@ -503,20 +503,6 @@
   </url>
   
   <url>
-    <loc>/author/nelson-bighetti/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/nelson-bighetti/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/nelson-bighetti/"
-                />
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <xhtml:link
                 rel="alternate"
@@ -541,6 +527,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/shuai-wang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/shuai-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/shuai-wang/"
                 />
   </url>
   
