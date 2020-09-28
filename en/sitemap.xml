@@ -8,21 +8,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
     <lastmod>2020-07-30T22:46:42+08:00</lastmod>
     <xhtml:link
@@ -80,6 +65,21 @@
   <url>
     <loc>/author/shuai-wang/</loc>
     <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
   </url>
   
   <url>
