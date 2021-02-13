@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhanghao Wu | Work hard</title>
-    <link>/author/zhanghao-wu/</link>
-      <atom:link href="/author/zhanghao-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wsstriving.github.io/author/zhanghao-wu/</link>
+      <atom:link href="https://wsstriving.github.io/author/zhanghao-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhanghao Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 22:46:42 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Zhanghao Wu</title>
-      <link>/author/zhanghao-wu/</link>
+      <link>https://wsstriving.github.io/author/zhanghao-wu/</link>
     </image>
     
     <item>
       <title>Data Augmentation using Deep Generative Models for Embedding based Speaker Recognition</title>
-      <link>/publication/2020-taslp/</link>
+      <link>https://wsstriving.github.io/publication/2020-taslp/</link>
       <pubDate>Thu, 30 Jul 2020 22:46:42 +0800</pubDate>
-      <guid>/publication/2020-taslp/</guid>
+      <guid>https://wsstriving.github.io/publication/2020-taslp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Augmentation Using Variational Autoencoder for Embedding Based Speaker Verification</title>
-      <link>/publication/2019-is-vae/</link>
+      <link>https://wsstriving.github.io/publication/2019-is-vae/</link>
       <pubDate>Tue, 25 Jun 2019 22:39:26 +0800</pubDate>
-      <guid>/publication/2019-is-vae/</guid>
+      <guid>https://wsstriving.github.io/publication/2019-is-vae/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Work hard</title>
-    <link>/publication-type/2/</link>
-      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wsstriving.github.io/publication-type/2/</link>
+      <atom:link href="https://wsstriving.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 22:46:42 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 22:06:00 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
-      <link>/publication-type/2/</link>
+      <link>https://wsstriving.github.io/publication-type/2/</link>
     </image>
     
     <item>
+      <title>Audio-Visual Deep Neural Network for Robust Person Verification</title>
+      <link>https://wsstriving.github.io/publication/2021-taslp/</link>
+      <pubDate>Sat, 13 Feb 2021 22:06:00 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-taslp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Augmentation using Deep Generative Models for Embedding based Speaker Recognition</title>
-      <link>/publication/2020-taslp/</link>
+      <link>https://wsstriving.github.io/publication/2020-taslp/</link>
       <pubDate>Thu, 30 Jul 2020 22:46:42 +0800</pubDate>
-      <guid>/publication/2020-taslp/</guid>
+      <guid>https://wsstriving.github.io/publication/2020-taslp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discriminative Neural Embedding Learning for Short-Duration Text-Independent Speaker Verification</title>
-      <link>/publication/2019-taslp/</link>
+      <link>https://wsstriving.github.io/publication/2019-taslp/</link>
       <pubDate>Tue, 25 Jun 2019 23:56:06 +0800</pubDate>
-      <guid>/publication/2019-taslp/</guid>
+      <guid>https://wsstriving.github.io/publication/2019-taslp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Past review, current progress, and challenges ahead on the cocktail party problem</title>
-      <link>/publication/2018-fitee/</link>
+      <link>https://wsstriving.github.io/publication/2018-fitee/</link>
       <pubDate>Mon, 25 Jun 2018 23:50:02 +0800</pubDate>
-      <guid>/publication/2018-fitee/</guid>
+      <guid>https://wsstriving.github.io/publication/2018-fitee/</guid>
       <description></description>
     </item>
     

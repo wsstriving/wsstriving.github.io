@@ -3,558 +3,613 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+    <loc>https://wsstriving.github.io/publication-type/1/</loc>
+    <lastmod>2021-02-13T22:23:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+    <loc>https://wsstriving.github.io/authors/</loc>
+    <lastmod>2021-02-13T22:23:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/authors/"
+                href="https://wsstriving.github.io/zh/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/"
+                href="https://wsstriving.github.io/authors/"
                 />
   </url>
   
   <url>
-    <loc>/publication/2020-taslp/</loc>
-    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+    <loc>https://wsstriving.github.io/author/lan-wang/</loc>
+    <lastmod>2021-02-13T22:23:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/kai-yu/</loc>
-    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+    <loc>https://wsstriving.github.io/publication_types/</loc>
+    <lastmod>2021-02-13T22:23:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/publication_types/"
+                href="https://wsstriving.github.io/zh/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication_types/"
+                href="https://wsstriving.github.io/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+    <loc>https://wsstriving.github.io/publication/</loc>
+    <lastmod>2021-02-13T22:23:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/publication/"
+                href="https://wsstriving.github.io/zh/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/"
+                href="https://wsstriving.github.io/publication/"
                 />
   </url>
   
   <url>
-    <loc>/author/shuai-wang/</loc>
-    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+    <loc>https://wsstriving.github.io/author/shuai-wang/</loc>
+    <lastmod>2021-02-13T22:23:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
+    <loc>https://wsstriving.github.io/publication/2021-iscslp-ndm/</loc>
+    <lastmod>2021-02-13T22:23:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/</loc>
+    <lastmod>2021-02-13T22:23:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/"
+                href="https://wsstriving.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://wsstriving.github.io/"
                 />
   </url>
   
   <url>
-    <loc>/author/yanmin-qian/</loc>
+    <loc>https://wsstriving.github.io/author/xun-gong/</loc>
+    <lastmod>2021-02-13T22:23:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/author/yanmin-qian/</loc>
+    <lastmod>2021-02-13T22:23:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/author/yexin-yang/</loc>
+    <lastmod>2021-02-13T22:23:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/author/zhengyang-chen/</loc>
+    <lastmod>2021-02-13T22:23:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/author/kai-yu/</loc>
+    <lastmod>2021-02-13T22:22:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/publication/2021-iscslp-pooling/</loc>
+    <lastmod>2021-02-13T22:22:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/publication/2021-icassp-unsupervised/</loc>
+    <lastmod>2021-02-13T22:14:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/author/bing-han/</loc>
+    <lastmod>2021-02-13T22:14:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/categories/</loc>
+    <lastmod>2021-02-13T22:14:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wsstriving.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wsstriving.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/author/chenpeng-du/</loc>
+    <lastmod>2021-02-13T22:14:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/category/data_aug/</loc>
+    <lastmod>2021-02-13T22:14:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/publication/2021-icassp-ttsaug2/</loc>
+    <lastmod>2021-02-13T22:14:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/author/fei-zhao/</loc>
+    <lastmod>2021-02-13T22:13:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/author/houjun-huang/</loc>
+    <lastmod>2021-02-13T22:13:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/publication/2021-icassp-ttsaug1/</loc>
+    <lastmod>2021-02-13T22:13:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/author/xu-xiang/</loc>
+    <lastmod>2021-02-13T22:13:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/publication-type/2/</loc>
+    <lastmod>2021-02-13T22:06:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/publication/2021-taslp/</loc>
+    <lastmod>2021-02-13T22:06:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsstriving.github.io/publication/2020-taslp/</loc>
     <lastmod>2020-07-30T22:46:42+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/yexin-yang/</loc>
+    <loc>https://wsstriving.github.io/author/zhanghao-wu/</loc>
     <lastmod>2020-07-30T22:46:42+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/zhanghao-wu/</loc>
-    <lastmod>2020-07-30T22:46:42+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/3/</loc>
+    <loc>https://wsstriving.github.io/publication-type/3/</loc>
     <lastmod>2020-07-28T20:42:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2020-is-spoof/</loc>
+    <loc>https://wsstriving.github.io/publication/2020-is-spoof/</loc>
     <lastmod>2020-07-28T20:42:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/heinrich-dinkel/</loc>
+    <loc>https://wsstriving.github.io/author/heinrich-dinkel/</loc>
     <lastmod>2020-07-28T20:42:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/hongji-wang/</loc>
+    <loc>https://wsstriving.github.io/author/hongji-wang/</loc>
     <lastmod>2020-07-28T20:42:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/yanmin-qian-and-kai-yu/</loc>
+    <loc>https://wsstriving.github.io/author/yanmin-qian-and-kai-yu/</loc>
     <lastmod>2020-07-28T20:42:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/0/</loc>
+    <loc>https://wsstriving.github.io/publication-type/0/</loc>
     <lastmod>2020-07-28T20:41:42+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2020-is-avn/</loc>
+    <loc>https://wsstriving.github.io/publication/2020-is-avn/</loc>
     <lastmod>2020-07-28T20:41:42+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/shuai-wang-and-yanmin-qian/</loc>
+    <loc>https://wsstriving.github.io/author/shuai-wang-and-yanmin-qian/</loc>
     <lastmod>2020-07-28T20:41:42+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/zhengyang-chen/</loc>
-    <lastmod>2020-07-28T20:41:42+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2020-is-psn/</loc>
+    <loc>https://wsstriving.github.io/publication/2020-is-psn/</loc>
     <lastmod>2020-07-28T20:41:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
+    <loc>https://wsstriving.github.io/author/alicia-lozano-diez/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/alicia-lozano-diez/</loc>
+    <loc>https://wsstriving.github.io/publication/2020-nistsre/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2020-nistsre/</loc>
+    <loc>https://wsstriving.github.io/author/anna-silnova/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/anna-silnova/</loc>
+    <loc>https://wsstriving.github.io/author/cedric-noiseux/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/cedric-noiseux/</loc>
+    <loc>https://wsstriving.github.io/author/gilles-boulianne/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/gilles-boulianne/</loc>
+    <loc>https://wsstriving.github.io/author/hossein-zeinali-alphabetical-order/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/hossein-zeinali-alphabetical-order/</loc>
+    <loc>https://wsstriving.github.io/author/jahangir-alam/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/jahangir-alam/</loc>
+    <loc>https://wsstriving.github.io/author/joao-monteiro/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/joao-monteiro/</loc>
+    <loc>https://wsstriving.github.io/author/johan-rohdin/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/johan-rohdin/</loc>
+    <loc>https://wsstriving.github.io/author/josef-slav%C4%B1cek/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/josef-slav%C4%B1cek/</loc>
+    <loc>https://wsstriving.github.io/author/ladislav-mosner/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/ladislav-mosner/</loc>
+    <loc>https://wsstriving.github.io/author/lukas-burget/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/lukas-burget/</loc>
+    <loc>https://wsstriving.github.io/author/marc-lalonde/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/marc-lalonde/</loc>
+    <loc>https://wsstriving.github.io/author/mireia-diez/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/mireia-diez/</loc>
+    <loc>https://wsstriving.github.io/author/mohamed-dahmane/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/mohamed-dahmane/</loc>
+    <loc>https://wsstriving.github.io/author/oldrich-plchot/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/oldrich-plchot/</loc>
+    <loc>https://wsstriving.github.io/author/ondrej-glembek/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/ondrej-glembek/</loc>
+    <loc>https://wsstriving.github.io/author/ondrej-novotny/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/ondrej-novotny/</loc>
+    <loc>https://wsstriving.github.io/author/pavel-matejka/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/pavel-matejka/</loc>
+    <loc>https://wsstriving.github.io/author/petr-mizera/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/petr-mizera/</loc>
+    <loc>https://wsstriving.github.io/author/pierre-luc-st-charles/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/pierre-luc-st-charles/</loc>
+    <loc>https://wsstriving.github.io/author/themos-stafylakis/</loc>
     <lastmod>2020-06-26T13:40:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/themos-stafylakis/</loc>
-    <lastmod>2020-06-26T13:40:56+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2020-icassp-dihard/</loc>
+    <loc>https://wsstriving.github.io/publication/2020-icassp-dihard/</loc>
     <lastmod>2020-06-25T21:46:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-06-25T21:46:02+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/category/diarization/</loc>
+    <loc>https://wsstriving.github.io/category/diarization/</loc>
     <lastmod>2020-06-25T21:46:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/federico-landini/</loc>
+    <loc>https://wsstriving.github.io/author/federico-landini/</loc>
     <lastmod>2020-06-25T21:46:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/hossein-zeinali/</loc>
+    <loc>https://wsstriving.github.io/author/hossein-zeinali/</loc>
     <lastmod>2020-06-25T21:46:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/katerina-zmolikova/</loc>
+    <loc>https://wsstriving.github.io/author/katerina-zmolikova/</loc>
     <lastmod>2020-06-25T21:46:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/honza-cernocky/</loc>
+    <loc>https://wsstriving.github.io/author/honza-cernocky/</loc>
     <lastmod>2020-06-25T21:45:57+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2020-icassp-vb/</loc>
+    <loc>https://wsstriving.github.io/publication/2020-icassp-vb/</loc>
     <lastmod>2020-06-25T21:45:57+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/sel/</loc>
+    <loc>https://wsstriving.github.io/category/sel/</loc>
     <lastmod>2020-06-25T21:45:52+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2020-icassp-adapt/</loc>
+    <loc>https://wsstriving.github.io/publication/2020-icassp-adapt/</loc>
     <lastmod>2020-06-25T21:45:52+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/xun-gong/</loc>
-    <lastmod>2020-06-25T21:45:52+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2020-icassp-channel/</loc>
+    <loc>https://wsstriving.github.io/publication/2020-icassp-channel/</loc>
     <lastmod>2020-06-25T21:45:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2020-icassp-specaug/</loc>
+    <loc>https://wsstriving.github.io/publication/2020-icassp-specaug/</loc>
     <lastmod>2020-06-25T21:45:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/jan-cernocky/</loc>
+    <loc>https://wsstriving.github.io/author/jan-cernocky/</loc>
     <lastmod>2020-06-25T21:45:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/sid/</loc>
+    <loc>https://wsstriving.github.io/category/sid/</loc>
     <lastmod>2020-06-25T21:45:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2019-voxceleb/</loc>
+    <loc>https://wsstriving.github.io/publication/2019-voxceleb/</loc>
     <lastmod>2019-06-26T13:31:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2019-taslp/</loc>
+    <loc>https://wsstriving.github.io/publication/2019-taslp/</loc>
     <lastmod>2019-06-25T23:56:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/zili-huang/</loc>
+    <loc>https://wsstriving.github.io/author/zili-huang/</loc>
     <lastmod>2019-06-25T23:56:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/houjun-huang/</loc>
+    <loc>https://wsstriving.github.io/publication/2019-apsipa/</loc>
     <lastmod>2019-06-25T23:26:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2019-apsipa/</loc>
-    <lastmod>2019-06-25T23:26:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/xu-xiang/</loc>
-    <lastmod>2019-06-25T23:26:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2019-icassp/</loc>
+    <loc>https://wsstriving.github.io/publication/2019-icassp/</loc>
     <lastmod>2019-06-25T23:23:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/tianzhe-wang/</loc>
+    <loc>https://wsstriving.github.io/author/tianzhe-wang/</loc>
     <lastmod>2019-06-25T23:23:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2019-ncmmsc-vad/</loc>
+    <loc>https://wsstriving.github.io/publication/2019-ncmmsc-vad/</loc>
     <lastmod>2019-06-25T23:20:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/vad/</loc>
+    <loc>https://wsstriving.github.io/category/vad/</loc>
     <lastmod>2019-06-25T23:20:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/yefei-chen/</loc>
+    <loc>https://wsstriving.github.io/author/yefei-chen/</loc>
     <lastmod>2019-06-25T23:20:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/antispoof/</loc>
+    <loc>https://wsstriving.github.io/category/antispoof/</loc>
     <lastmod>2019-06-25T22:40:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2019-is-asvspoof/</loc>
+    <loc>https://wsstriving.github.io/publication/2019-is-asvspoof/</loc>
     <lastmod>2019-06-25T22:40:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2019-is-vb/</loc>
+    <loc>https://wsstriving.github.io/publication/2019-is-vb/</loc>
     <lastmod>2019-06-25T22:39:57+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2019-is-spoof/</loc>
+    <loc>https://wsstriving.github.io/publication/2019-is-spoof/</loc>
     <lastmod>2019-06-25T22:39:54+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2019-is-vae/</loc>
+    <loc>https://wsstriving.github.io/publication/2019-is-vae/</loc>
     <lastmod>2019-06-25T22:39:26+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2019-is-phoneme/</loc>
+    <loc>https://wsstriving.github.io/publication/2019-is-phoneme/</loc>
     <lastmod>2019-06-25T22:38:51+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/chao-weng/</loc>
+    <loc>https://wsstriving.github.io/author/chao-weng/</loc>
     <lastmod>2018-06-25T23:50:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2018-fitee/</loc>
+    <loc>https://wsstriving.github.io/publication/2018-fitee/</loc>
     <lastmod>2018-06-25T23:50:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/shuai-wang-and-dong-yu/</loc>
+    <loc>https://wsstriving.github.io/author/shuai-wang-and-dong-yu/</loc>
     <lastmod>2018-06-25T23:50:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/xuankai-chang/</loc>
+    <loc>https://wsstriving.github.io/author/xuankai-chang/</loc>
     <lastmod>2018-06-25T23:50:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2018-interspeech/</loc>
+    <loc>https://wsstriving.github.io/publication/2018-interspeech/</loc>
     <lastmod>2018-06-25T23:32:23+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2018-iscide/</loc>
+    <loc>https://wsstriving.github.io/publication/2018-iscide/</loc>
     <lastmod>2018-06-25T23:32:16+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2018-iscslp-dda/</loc>
+    <loc>https://wsstriving.github.io/publication/2018-iscslp-dda/</loc>
     <lastmod>2018-06-25T23:32:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2018-iscslp-gan/</loc>
+    <loc>https://wsstriving.github.io/publication/2018-iscslp-gan/</loc>
     <lastmod>2018-06-25T23:32:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/man-sun/</loc>
+    <loc>https://wsstriving.github.io/author/man-sun/</loc>
     <lastmod>2018-06-25T23:32:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2018-icassp-cocktail/</loc>
+    <loc>https://wsstriving.github.io/publication/2018-icassp-cocktail/</loc>
     <lastmod>2018-06-25T23:30:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2018-icassp-joint/</loc>
+    <loc>https://wsstriving.github.io/publication/2018-icassp-joint/</loc>
     <lastmod>2018-06-25T23:29:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2017-apsipa/</loc>
+    <loc>https://wsstriving.github.io/publication/2017-apsipa/</loc>
     <lastmod>2017-06-25T23:50:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/xiaowei-jiang/</loc>
+    <loc>https://wsstriving.github.io/author/xiaowei-jiang/</loc>
     <lastmod>2017-06-25T23:50:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2017-interspeech/</loc>
+    <loc>https://wsstriving.github.io/publication/2017-interspeech/</loc>
     <lastmod>2017-06-25T18:01:22+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://wsstriving.github.io/post/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/post/"
+                href="https://wsstriving.github.io/zh/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="https://wsstriving.github.io/post/"
                 />
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://wsstriving.github.io/talk/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/talk/"
+                href="https://wsstriving.github.io/zh/talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/talk/"
+                href="https://wsstriving.github.io/talk/"
                 />
   </url>
   
   <url>
-    <loc>/author/shuai-wang/</loc>
+    <loc>https://wsstriving.github.io/author/shuai-wang/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/author/%E7%8E%8B-%E5%B8%85/"
+                href="https://wsstriving.github.io/zh/author/%E7%8E%8B-%E5%B8%85/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/shuai-wang/"
+                href="https://wsstriving.github.io/author/shuai-wang/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://wsstriving.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/tags/"
+                href="https://wsstriving.github.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://wsstriving.github.io/tags/"
                 />
   </url>
   

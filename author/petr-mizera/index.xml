@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Petr Mizera | Work hard</title>
-    <link>/author/petr-mizera/</link>
-      <atom:link href="/author/petr-mizera/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wsstriving.github.io/author/petr-mizera/</link>
+      <atom:link href="https://wsstriving.github.io/author/petr-mizera/index.xml" rel="self" type="application/rss+xml" />
     <description>Petr Mizera</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jun 2020 13:40:56 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Petr Mizera</title>
-      <link>/author/petr-mizera/</link>
+      <link>https://wsstriving.github.io/author/petr-mizera/</link>
     </image>
     
     <item>
       <title>Analysis of ABC Submission to NIST SRE 2019 CMN and VAST Challenge</title>
-      <link>/publication/2020-nistsre/</link>
+      <link>https://wsstriving.github.io/publication/2020-nistsre/</link>
       <pubDate>Fri, 26 Jun 2020 13:40:56 +0800</pubDate>
-      <guid>/publication/2020-nistsre/</guid>
+      <guid>https://wsstriving.github.io/publication/2020-nistsre/</guid>
       <description></description>
     </item>
     

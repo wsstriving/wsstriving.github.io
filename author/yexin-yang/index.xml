@@ -2,53 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yexin Yang | Work hard</title>
-    <link>/author/yexin-yang/</link>
-      <atom:link href="/author/yexin-yang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wsstriving.github.io/author/yexin-yang/</link>
+      <atom:link href="https://wsstriving.github.io/author/yexin-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yexin Yang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 22:46:42 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 22:23:00 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yexin Yang</title>
-      <link>/author/yexin-yang/</link>
+      <link>https://wsstriving.github.io/author/yexin-yang/</link>
     </image>
     
     <item>
+      <title>Speaker Embedding Augmentation with Noise Distribution Matching.</title>
+      <link>https://wsstriving.github.io/publication/2021-iscslp-ndm/</link>
+      <pubDate>Sat, 13 Feb 2021 22:23:00 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-iscslp-ndm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Statistics Pooling Layer in Deep Speaker Embedding Learning</title>
+      <link>https://wsstriving.github.io/publication/2021-iscslp-pooling/</link>
+      <pubDate>Sat, 13 Feb 2021 22:22:48 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-iscslp-pooling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Augmentation using Deep Generative Models for Embedding based Speaker Recognition</title>
-      <link>/publication/2020-taslp/</link>
+      <link>https://wsstriving.github.io/publication/2020-taslp/</link>
       <pubDate>Thu, 30 Jul 2020 22:46:42 +0800</pubDate>
-      <guid>/publication/2020-taslp/</guid>
+      <guid>https://wsstriving.github.io/publication/2020-taslp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text Adaptation for Speaker Verification with Speaker-Text Factorized Embeddings</title>
-      <link>/publication/2020-icassp-adapt/</link>
+      <link>https://wsstriving.github.io/publication/2020-icassp-adapt/</link>
       <pubDate>Thu, 25 Jun 2020 21:45:52 +0800</pubDate>
-      <guid>/publication/2020-icassp-adapt/</guid>
+      <guid>https://wsstriving.github.io/publication/2020-icassp-adapt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knowledge Distillation for Small Foot-print Deep Speaker Embedding</title>
-      <link>/publication/2019-icassp/</link>
+      <link>https://wsstriving.github.io/publication/2019-icassp/</link>
       <pubDate>Tue, 25 Jun 2019 23:23:14 +0800</pubDate>
-      <guid>/publication/2019-icassp/</guid>
+      <guid>https://wsstriving.github.io/publication/2019-icassp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The SJTU Robust Anti-Spoofing System for the ASVspoof 2019 Challenge</title>
-      <link>/publication/2019-is-asvspoof/</link>
+      <link>https://wsstriving.github.io/publication/2019-is-asvspoof/</link>
       <pubDate>Tue, 25 Jun 2019 22:40:14 +0800</pubDate>
-      <guid>/publication/2019-is-asvspoof/</guid>
+      <guid>https://wsstriving.github.io/publication/2019-is-asvspoof/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generative Adversarial Networks based X-vector Augmentation for Robust Probabilistic Linear Discriminant Analysis in Speaker Verification</title>
-      <link>/publication/2018-iscslp-gan/</link>
+      <link>https://wsstriving.github.io/publication/2018-iscslp-gan/</link>
       <pubDate>Mon, 25 Jun 2018 23:32:02 +0800</pubDate>
-      <guid>/publication/2018-iscslp-gan/</guid>
+      <guid>https://wsstriving.github.io/publication/2018-iscslp-gan/</guid>
       <description></description>
     </item>
     

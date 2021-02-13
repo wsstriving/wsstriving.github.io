@@ -2,45 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhengyang Chen | Work hard</title>
-    <link>/author/zhengyang-chen/</link>
-      <atom:link href="/author/zhengyang-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wsstriving.github.io/author/zhengyang-chen/</link>
+      <atom:link href="https://wsstriving.github.io/author/zhengyang-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhengyang Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jul 2020 20:41:42 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 22:23:00 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Zhengyang Chen</title>
-      <link>/author/zhengyang-chen/</link>
+      <link>https://wsstriving.github.io/author/zhengyang-chen/</link>
     </image>
     
     <item>
+      <title>Speaker Embedding Augmentation with Noise Distribution Matching.</title>
+      <link>https://wsstriving.github.io/publication/2021-iscslp-ndm/</link>
+      <pubDate>Sat, 13 Feb 2021 22:23:00 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-iscslp-ndm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SELF-SUPERVISED LEARNING BASED DOMAIN ADAPTATION FOR ROBUST SPEAKER VERIFICATION</title>
+      <link>https://wsstriving.github.io/publication/2021-icassp-unsupervised/</link>
+      <pubDate>Sat, 13 Feb 2021 22:14:07 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-icassp-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio-Visual Deep Neural Network for Robust Person Verification</title>
+      <link>https://wsstriving.github.io/publication/2021-taslp/</link>
+      <pubDate>Sat, 13 Feb 2021 22:06:00 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-taslp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-modality Matters: A Performance Leap on VoxCeleb</title>
-      <link>/publication/2020-is-avn/</link>
+      <link>https://wsstriving.github.io/publication/2020-is-avn/</link>
       <pubDate>Tue, 28 Jul 2020 20:41:42 +0800</pubDate>
-      <guid>/publication/2020-is-avn/</guid>
+      <guid>https://wsstriving.github.io/publication/2020-is-avn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adversarial Domain Adaptation for Speaker Verification using Partially Shared Network</title>
-      <link>/publication/2020-is-psn/</link>
+      <link>https://wsstriving.github.io/publication/2020-is-psn/</link>
       <pubDate>Tue, 28 Jul 2020 20:41:36 +0800</pubDate>
-      <guid>/publication/2020-is-psn/</guid>
+      <guid>https://wsstriving.github.io/publication/2020-is-psn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Channel Invariant Speaker Embedding Learning with Joint Multi-Task and Adversarial Training</title>
-      <link>/publication/2020-icassp-channel/</link>
+      <link>https://wsstriving.github.io/publication/2020-icassp-channel/</link>
       <pubDate>Thu, 25 Jun 2020 21:45:45 +0800</pubDate>
-      <guid>/publication/2020-icassp-channel/</guid>
+      <guid>https://wsstriving.github.io/publication/2020-icassp-channel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The SJTU Robust Anti-Spoofing System for the ASVspoof 2019 Challenge</title>
-      <link>/publication/2019-is-asvspoof/</link>
+      <link>https://wsstriving.github.io/publication/2019-is-asvspoof/</link>
       <pubDate>Tue, 25 Jun 2019 22:40:14 +0800</pubDate>
-      <guid>/publication/2019-is-asvspoof/</guid>
+      <guid>https://wsstriving.github.io/publication/2019-is-asvspoof/</guid>
       <description></description>
     </item>
     

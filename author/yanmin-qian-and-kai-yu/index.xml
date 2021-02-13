@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yanmin Qian and Kai Yu | Work hard</title>
-    <link>/author/yanmin-qian-and-kai-yu/</link>
-      <atom:link href="/author/yanmin-qian-and-kai-yu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wsstriving.github.io/author/yanmin-qian-and-kai-yu/</link>
+      <atom:link href="https://wsstriving.github.io/author/yanmin-qian-and-kai-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yanmin Qian and Kai Yu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jul 2020 20:42:06 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yanmin Qian and Kai Yu</title>
-      <link>/author/yanmin-qian-and-kai-yu/</link>
+      <link>https://wsstriving.github.io/author/yanmin-qian-and-kai-yu/</link>
     </image>
     
     <item>
       <title>Dual-adversarial domain adaptation for generalized replay attack detection</title>
-      <link>/publication/2020-is-spoof/</link>
+      <link>https://wsstriving.github.io/publication/2020-is-spoof/</link>
       <pubDate>Tue, 28 Jul 2020 20:42:06 +0800</pubDate>
-      <guid>/publication/2020-is-spoof/</guid>
+      <guid>https://wsstriving.github.io/publication/2020-is-spoof/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knowledge Distillation for Small Foot-print Deep Speaker Embedding</title>
-      <link>/publication/2019-icassp/</link>
+      <link>https://wsstriving.github.io/publication/2019-icassp/</link>
       <pubDate>Tue, 25 Jun 2019 23:23:14 +0800</pubDate>
-      <guid>/publication/2019-icassp/</guid>
+      <guid>https://wsstriving.github.io/publication/2019-icassp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-to-End Speaker-Dependent Voice Activity Detection</title>
-      <link>/publication/2019-ncmmsc-vad/</link>
+      <link>https://wsstriving.github.io/publication/2019-ncmmsc-vad/</link>
       <pubDate>Tue, 25 Jun 2019 23:20:28 +0800</pubDate>
-      <guid>/publication/2019-ncmmsc-vad/</guid>
+      <guid>https://wsstriving.github.io/publication/2019-ncmmsc-vad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep discriminant analysis for i-vector based robust speaker recognition</title>
-      <link>/publication/2018-iscslp-dda/</link>
+      <link>https://wsstriving.github.io/publication/2018-iscslp-dda/</link>
       <pubDate>Mon, 25 Jun 2018 23:32:07 +0800</pubDate>
-      <guid>/publication/2018-iscslp-dda/</guid>
+      <guid>https://wsstriving.github.io/publication/2018-iscslp-dda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Does the Speaker Embedding Encode?</title>
-      <link>/publication/2017-interspeech/</link>
+      <link>https://wsstriving.github.io/publication/2017-interspeech/</link>
       <pubDate>Sun, 25 Jun 2017 18:01:22 +0800</pubDate>
-      <guid>/publication/2017-interspeech/</guid>
+      <guid>https://wsstriving.github.io/publication/2017-interspeech/</guid>
       <description></description>
     </item>
     

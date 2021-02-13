@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Honza Černocký | Work hard</title>
-    <link>/author/honza-cernocky/</link>
-      <atom:link href="/author/honza-cernocky/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wsstriving.github.io/author/honza-cernocky/</link>
+      <atom:link href="https://wsstriving.github.io/author/honza-cernocky/index.xml" rel="self" type="application/rss+xml" />
     <description>Honza Černocký</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jun 2020 21:45:57 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Honza Černocký</title>
-      <link>/author/honza-cernocky/</link>
+      <link>https://wsstriving.github.io/author/honza-cernocky/</link>
     </image>
     
     <item>
       <title>Optimizing Bayesian HMM based x-vector clustering for the second DIHARD speech diarization challenge</title>
-      <link>/publication/2020-icassp-vb/</link>
+      <link>https://wsstriving.github.io/publication/2020-icassp-vb/</link>
       <pubDate>Thu, 25 Jun 2020 21:45:57 +0800</pubDate>
-      <guid>/publication/2020-icassp-vb/</guid>
+      <guid>https://wsstriving.github.io/publication/2020-icassp-vb/</guid>
       <description></description>
     </item>
     

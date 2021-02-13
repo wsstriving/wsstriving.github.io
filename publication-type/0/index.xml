@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 | Work hard</title>
-    <link>/publication-type/0/</link>
-      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wsstriving.github.io/publication-type/0/</link>
+      <atom:link href="https://wsstriving.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jul 2020 20:41:42 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
-      <link>/publication-type/0/</link>
+      <link>https://wsstriving.github.io/publication-type/0/</link>
     </image>
     
     <item>
       <title>Multi-modality Matters: A Performance Leap on VoxCeleb</title>
-      <link>/publication/2020-is-avn/</link>
+      <link>https://wsstriving.github.io/publication/2020-is-avn/</link>
       <pubDate>Tue, 28 Jul 2020 20:41:42 +0800</pubDate>
-      <guid>/publication/2020-is-avn/</guid>
+      <guid>https://wsstriving.github.io/publication/2020-is-avn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BUT system description to voxceleb speaker recognition challenge 2019</title>
-      <link>/publication/2019-voxceleb/</link>
+      <link>https://wsstriving.github.io/publication/2019-voxceleb/</link>
       <pubDate>Wed, 26 Jun 2019 13:31:19 +0800</pubDate>
-      <guid>/publication/2019-voxceleb/</guid>
+      <guid>https://wsstriving.github.io/publication/2019-voxceleb/</guid>
       <description></description>
     </item>
     

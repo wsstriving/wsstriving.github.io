@@ -3,135 +3,135 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/zh/post/</loc>
+    <loc>https://wsstriving.github.io/zh/post/</loc>
     <lastmod>2020-07-22T13:40:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="https://wsstriving.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/post/"
+                href="https://wsstriving.github.io/zh/post/"
                 />
   </url>
   
   <url>
-    <loc>/zh/post/twenty-seven/</loc>
+    <loc>https://wsstriving.github.io/zh/post/twenty-seven/</loc>
     <lastmod>2020-07-22T13:40:46+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/zh/</loc>
+    <loc>https://wsstriving.github.io/zh/</loc>
     <lastmod>2020-07-22T13:40:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://wsstriving.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/"
+                href="https://wsstriving.github.io/zh/"
                 />
   </url>
   
   <url>
-    <loc>/zh/authors/</loc>
+    <loc>https://wsstriving.github.io/zh/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/"
+                href="https://wsstriving.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/authors/"
+                href="https://wsstriving.github.io/zh/authors/"
                 />
   </url>
   
   <url>
-    <loc>/zh/categories/</loc>
+    <loc>https://wsstriving.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://wsstriving.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/categories/"
+                href="https://wsstriving.github.io/zh/categories/"
                 />
   </url>
   
   <url>
-    <loc>/zh/publication_types/</loc>
+    <loc>https://wsstriving.github.io/zh/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication_types/"
+                href="https://wsstriving.github.io/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/publication_types/"
+                href="https://wsstriving.github.io/zh/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>/zh/publication/</loc>
+    <loc>https://wsstriving.github.io/zh/publication/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/"
+                href="https://wsstriving.github.io/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/publication/"
+                href="https://wsstriving.github.io/zh/publication/"
                 />
   </url>
   
   <url>
-    <loc>/zh/talk/</loc>
+    <loc>https://wsstriving.github.io/zh/talk/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/talk/"
+                href="https://wsstriving.github.io/talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/talk/"
+                href="https://wsstriving.github.io/zh/talk/"
                 />
   </url>
   
   <url>
-    <loc>/zh/tags/</loc>
+    <loc>https://wsstriving.github.io/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://wsstriving.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/tags/"
+                href="https://wsstriving.github.io/zh/tags/"
                 />
   </url>
   
   <url>
-    <loc>/zh/author/%E7%8E%8B-%E5%B8%85/</loc>
+    <loc>https://wsstriving.github.io/zh/author/%E7%8E%8B-%E5%B8%85/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/shuai-wang/"
+                href="https://wsstriving.github.io/author/shuai-wang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/author/%E7%8E%8B-%E5%B8%85/"
+                href="https://wsstriving.github.io/zh/author/%E7%8E%8B-%E5%B8%85/"
                 />
   </url>
   

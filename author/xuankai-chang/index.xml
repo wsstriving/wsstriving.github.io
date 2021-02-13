@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xuankai Chang | Work hard</title>
-    <link>/author/xuankai-chang/</link>
-      <atom:link href="/author/xuankai-chang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wsstriving.github.io/author/xuankai-chang/</link>
+      <atom:link href="https://wsstriving.github.io/author/xuankai-chang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuankai Chang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jun 2018 23:50:02 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xuankai Chang</title>
-      <link>/author/xuankai-chang/</link>
+      <link>https://wsstriving.github.io/author/xuankai-chang/</link>
     </image>
     
     <item>
       <title>Past review, current progress, and challenges ahead on the cocktail party problem</title>
-      <link>/publication/2018-fitee/</link>
+      <link>https://wsstriving.github.io/publication/2018-fitee/</link>
       <pubDate>Mon, 25 Jun 2018 23:50:02 +0800</pubDate>
-      <guid>/publication/2018-fitee/</guid>
+      <guid>https://wsstriving.github.io/publication/2018-fitee/</guid>
       <description></description>
     </item>
     

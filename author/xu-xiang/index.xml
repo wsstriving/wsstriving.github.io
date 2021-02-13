@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xu Xiang | Work hard</title>
-    <link>/author/xu-xiang/</link>
-      <atom:link href="/author/xu-xiang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wsstriving.github.io/author/xu-xiang/</link>
+      <atom:link href="https://wsstriving.github.io/author/xu-xiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xu Xiang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jun 2019 23:26:44 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 22:13:59 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xu Xiang</title>
-      <link>/author/xu-xiang/</link>
+      <link>https://wsstriving.github.io/author/xu-xiang/</link>
     </image>
     
     <item>
+      <title>Unit Selection Synthesis based Data Augmentation for Fixed Phrase Speaker Verification</title>
+      <link>https://wsstriving.github.io/publication/2021-icassp-ttsaug1/</link>
+      <pubDate>Sat, 13 Feb 2021 22:13:59 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-icassp-ttsaug1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Margin matters: Towards more discriminative deep neural network embeddings for speaker recognition</title>
-      <link>/publication/2019-apsipa/</link>
+      <link>https://wsstriving.github.io/publication/2019-apsipa/</link>
       <pubDate>Tue, 25 Jun 2019 23:26:44 +0800</pubDate>
-      <guid>/publication/2019-apsipa/</guid>
+      <guid>https://wsstriving.github.io/publication/2019-apsipa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating Online i-vector into GMM-UBM for Text-dependent Speaker Verification</title>
-      <link>/publication/2017-apsipa/</link>
+      <link>https://wsstriving.github.io/publication/2017-apsipa/</link>
       <pubDate>Sun, 25 Jun 2017 23:50:09 +0800</pubDate>
-      <guid>/publication/2017-apsipa/</guid>
+      <guid>https://wsstriving.github.io/publication/2017-apsipa/</guid>
       <description></description>
     </item>
     
