@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://wsstriving.github.io/zh/post/</loc>
     <lastmod>2020-07-22T13:40:46+08:00</lastmod>
@@ -15,14 +14,10 @@
                 hreflang="zh"
                 href="https://wsstriving.github.io/zh/post/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wsstriving.github.io/zh/post/twenty-seven/</loc>
     <lastmod>2020-07-22T13:40:46+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wsstriving.github.io/zh/</loc>
     <lastmod>2020-07-22T13:40:46+08:00</lastmod>
     <xhtml:link
@@ -35,9 +30,7 @@
                 hreflang="zh"
                 href="https://wsstriving.github.io/zh/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wsstriving.github.io/zh/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -49,9 +42,7 @@
                 hreflang="zh"
                 href="https://wsstriving.github.io/zh/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wsstriving.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -63,9 +54,7 @@
                 hreflang="zh"
                 href="https://wsstriving.github.io/zh/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wsstriving.github.io/zh/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -77,9 +66,7 @@
                 hreflang="zh"
                 href="https://wsstriving.github.io/zh/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wsstriving.github.io/zh/publication/</loc>
     <xhtml:link
                 rel="alternate"
@@ -91,9 +78,7 @@
                 hreflang="zh"
                 href="https://wsstriving.github.io/zh/publication/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wsstriving.github.io/zh/talk/</loc>
     <xhtml:link
                 rel="alternate"
@@ -105,9 +90,7 @@
                 hreflang="zh"
                 href="https://wsstriving.github.io/zh/talk/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wsstriving.github.io/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -119,9 +102,7 @@
                 hreflang="zh"
                 href="https://wsstriving.github.io/zh/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wsstriving.github.io/zh/author/%E7%8E%8B-%E5%B8%85/</loc>
     <xhtml:link
                 rel="alternate"
@@ -134,5 +115,4 @@
                 href="https://wsstriving.github.io/zh/author/%E7%8E%8B-%E5%B8%85/"
                 />
   </url>
-  
 </urlset>
