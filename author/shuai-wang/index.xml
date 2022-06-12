@@ -5,12 +5,300 @@
     <link>https://wsstriving.github.io/author/shuai-wang/</link>
       <atom:link href="https://wsstriving.github.io/author/shuai-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shuai Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 22:13:59 +0800</lastBuildDate>
     <image>
       <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Shuai Wang</title>
       <link>https://wsstriving.github.io/author/shuai-wang/</link>
     </image>
+    
+    <item>
+      <title>On the Importance of Different Frequency Bins for Speaker Verification</title>
+      <link>https://wsstriving.github.io/publication/2022-icassp-skd/</link>
+      <pubDate>Sat, 14 May 2022 22:13:59 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2022-icassp-skd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Knowledge Distillation via Feature Enhancement for Speaker Verification</title>
+      <link>https://wsstriving.github.io/publication/2022-icassp-feats/</link>
+      <pubDate>Fri, 13 May 2022 22:13:59 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2022-icassp-feats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Parallel Any-to-Many Voice Conversion by Replacing Speaker Statistics</title>
+      <link>https://wsstriving.github.io/publication/2021-is-vc/</link>
+      <pubDate>Tue, 28 Sep 2021 20:42:06 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-is-vc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice activity detection in the wild: A data-driven approach using teacher-student training</title>
+      <link>https://wsstriving.github.io/publication/2021-taslp-henri/</link>
+      <pubDate>Sun, 13 Jun 2021 22:06:00 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-taslp-henri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker Embedding Augmentation with Noise Distribution Matching.</title>
+      <link>https://wsstriving.github.io/publication/2021-iscslp-ndm/</link>
+      <pubDate>Sat, 13 Feb 2021 22:23:00 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-iscslp-ndm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Statistics Pooling Layer in Deep Speaker Embedding Learning</title>
+      <link>https://wsstriving.github.io/publication/2021-iscslp-pooling/</link>
+      <pubDate>Sat, 13 Feb 2021 22:22:48 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-iscslp-pooling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SELF-SUPERVISED LEARNING BASED DOMAIN ADAPTATION FOR ROBUST SPEAKER VERIFICATION</title>
+      <link>https://wsstriving.github.io/publication/2021-icassp-unsupervised/</link>
+      <pubDate>Sat, 13 Feb 2021 22:14:07 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-icassp-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SYNAUG:SYNTHESIS-BASED DATA AUGMENTATION FOR TEXT-DEPENDENT SPEAKER VERIFICATION</title>
+      <link>https://wsstriving.github.io/publication/2021-icassp-ttsaug2/</link>
+      <pubDate>Sat, 13 Feb 2021 22:14:01 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-icassp-ttsaug2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit Selection Synthesis based Data Augmentation for Fixed Phrase Speaker Verification</title>
+      <link>https://wsstriving.github.io/publication/2021-icassp-ttsaug1/</link>
+      <pubDate>Sat, 13 Feb 2021 22:13:59 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-icassp-ttsaug1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio-Visual Deep Neural Network for Robust Person Verification</title>
+      <link>https://wsstriving.github.io/publication/2021-taslp/</link>
+      <pubDate>Sat, 13 Feb 2021 22:06:00 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2021-taslp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation using Deep Generative Models for Embedding based Speaker Recognition</title>
+      <link>https://wsstriving.github.io/publication/2020-taslp/</link>
+      <pubDate>Thu, 30 Jul 2020 22:46:42 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2020-taslp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-adversarial domain adaptation for generalized replay attack detection</title>
+      <link>https://wsstriving.github.io/publication/2020-is-spoof/</link>
+      <pubDate>Tue, 28 Jul 2020 20:42:06 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2020-is-spoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of ABC Submission to NIST SRE 2019 CMN and VAST Challenge</title>
+      <link>https://wsstriving.github.io/publication/2020-nistsre/</link>
+      <pubDate>Fri, 26 Jun 2020 13:40:56 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2020-nistsre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>But System for the Second Dihard Speech Diarization Challenge</title>
+      <link>https://wsstriving.github.io/publication/2020-icassp-dihard/</link>
+      <pubDate>Thu, 25 Jun 2020 21:46:02 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2020-icassp-dihard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Bayesian HMM based x-vector clustering for the second DIHARD speech diarization challenge</title>
+      <link>https://wsstriving.github.io/publication/2020-icassp-vb/</link>
+      <pubDate>Thu, 25 Jun 2020 21:45:57 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2020-icassp-vb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Adaptation for Speaker Verification with Speaker-Text Factorized Embeddings</title>
+      <link>https://wsstriving.github.io/publication/2020-icassp-adapt/</link>
+      <pubDate>Thu, 25 Jun 2020 21:45:52 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2020-icassp-adapt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel Invariant Speaker Embedding Learning with Joint Multi-Task and Adversarial Training</title>
+      <link>https://wsstriving.github.io/publication/2020-icassp-channel/</link>
+      <pubDate>Thu, 25 Jun 2020 21:45:45 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2020-icassp-channel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of Specaugment for Deep Speaker Embedding Learning</title>
+      <link>https://wsstriving.github.io/publication/2020-icassp-specaug/</link>
+      <pubDate>Thu, 25 Jun 2020 21:45:36 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2020-icassp-specaug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BUT system description to voxceleb speaker recognition challenge 2019</title>
+      <link>https://wsstriving.github.io/publication/2019-voxceleb/</link>
+      <pubDate>Wed, 26 Jun 2019 13:31:19 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2019-voxceleb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative Neural Embedding Learning for Short-Duration Text-Independent Speaker Verification</title>
+      <link>https://wsstriving.github.io/publication/2019-taslp/</link>
+      <pubDate>Tue, 25 Jun 2019 23:56:06 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2019-taslp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margin matters: Towards more discriminative deep neural network embeddings for speaker recognition</title>
+      <link>https://wsstriving.github.io/publication/2019-apsipa/</link>
+      <pubDate>Tue, 25 Jun 2019 23:26:44 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2019-apsipa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Distillation for Small Foot-print Deep Speaker Embedding</title>
+      <link>https://wsstriving.github.io/publication/2019-icassp/</link>
+      <pubDate>Tue, 25 Jun 2019 23:23:14 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2019-icassp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-End Speaker-Dependent Voice Activity Detection</title>
+      <link>https://wsstriving.github.io/publication/2019-ncmmsc-vad/</link>
+      <pubDate>Tue, 25 Jun 2019 23:20:28 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2019-ncmmsc-vad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SJTU Robust Anti-Spoofing System for the ASVspoof 2019 Challenge</title>
+      <link>https://wsstriving.github.io/publication/2019-is-asvspoof/</link>
+      <pubDate>Tue, 25 Jun 2019 22:40:14 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2019-is-asvspoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian HMM Based x-Vector Clustering for Speaker Diarization</title>
+      <link>https://wsstriving.github.io/publication/2019-is-vb/</link>
+      <pubDate>Tue, 25 Jun 2019 22:39:57 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2019-is-vb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Domain Replay Spoofing Attack Detection Using Domain Adversarial Training</title>
+      <link>https://wsstriving.github.io/publication/2019-is-spoof/</link>
+      <pubDate>Tue, 25 Jun 2019 22:39:54 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2019-is-spoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation Using Variational Autoencoder for Embedding Based Speaker Verification</title>
+      <link>https://wsstriving.github.io/publication/2019-is-vae/</link>
+      <pubDate>Tue, 25 Jun 2019 22:39:26 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2019-is-vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Usage of Phonetic Information for Text-independent Speaker Embedding Extraction</title>
+      <link>https://wsstriving.github.io/publication/2019-is-phoneme/</link>
+      <pubDate>Tue, 25 Jun 2019 22:38:51 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2019-is-phoneme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular Softmax for Short-Duration Text-independent Speaker Verification.</title>
+      <link>https://wsstriving.github.io/publication/2018-interspeech/</link>
+      <pubDate>Mon, 25 Jun 2018 23:32:23 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2018-interspeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covariance based deep feature for text-dependent speaker verification</title>
+      <link>https://wsstriving.github.io/publication/2018-iscide/</link>
+      <pubDate>Mon, 25 Jun 2018 23:32:16 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2018-iscide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep discriminant analysis for i-vector based robust speaker recognition</title>
+      <link>https://wsstriving.github.io/publication/2018-iscslp-dda/</link>
+      <pubDate>Mon, 25 Jun 2018 23:32:07 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2018-iscslp-dda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Adversarial Networks based X-vector Augmentation for Robust Probabilistic Linear Discriminant Analysis in Speaker Verification</title>
+      <link>https://wsstriving.github.io/publication/2018-iscslp-gan/</link>
+      <pubDate>Mon, 25 Jun 2018 23:32:02 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2018-iscslp-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focal KL-divergence based dilated convolutional neural networks for co-channel speaker identification</title>
+      <link>https://wsstriving.github.io/publication/2018-icassp-cocktail/</link>
+      <pubDate>Mon, 25 Jun 2018 23:30:07 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2018-icassp-cocktail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint i-vector with end-to-end system for short-duration text-independent speaker verification</title>
+      <link>https://wsstriving.github.io/publication/2018-icassp-joint/</link>
+      <pubDate>Mon, 25 Jun 2018 23:29:59 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2018-icassp-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Online i-vector into GMM-UBM for Text-dependent Speaker Verification</title>
+      <link>https://wsstriving.github.io/publication/2017-apsipa/</link>
+      <pubDate>Sun, 25 Jun 2017 23:50:09 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2017-apsipa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Does the Speaker Embedding Encode?</title>
+      <link>https://wsstriving.github.io/publication/2017-interspeech/</link>
+      <pubDate>Sun, 25 Jun 2017 18:01:22 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2017-interspeech/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
