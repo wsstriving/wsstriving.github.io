@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wsstriving.github.io/publication-type/1/</loc>
-    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
+    <lastmod>2023-05-05T22:11:59+08:00</lastmod>
+  </url><url>
+    <loc>https://wsstriving.github.io/publication/2023-icme-vc/</loc>
+    <lastmod>2023-05-05T22:11:59+08:00</lastmod>
   </url><url>
     <loc>https://wsstriving.github.io/authors/</loc>
-    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
+    <lastmod>2023-05-05T22:11:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -19,7 +22,7 @@
                 />
   </url><url>
     <loc>https://wsstriving.github.io/categories/</loc>
-    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
+    <lastmod>2023-05-05T22:11:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -31,17 +34,11 @@
                 href="https://wsstriving.github.io/categories/"
                 />
   </url><url>
-    <loc>https://wsstriving.github.io/publication/2022-is-emotion/</loc>
-    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
-  </url><url>
     <loc>https://wsstriving.github.io/author/helen-meng/</loc>
-    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
-  </url><url>
-    <loc>https://wsstriving.github.io/author/jinchao-li/</loc>
-    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
+    <lastmod>2023-05-05T22:11:59+08:00</lastmod>
   </url><url>
     <loc>https://wsstriving.github.io/publication_types/</loc>
-    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
+    <lastmod>2023-05-05T22:11:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -54,7 +51,7 @@
                 />
   </url><url>
     <loc>https://wsstriving.github.io/publication/</loc>
-    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
+    <lastmod>2023-05-05T22:11:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -67,13 +64,13 @@
                 />
   </url><url>
     <loc>https://wsstriving.github.io/category/sel/</loc>
-    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
+    <lastmod>2023-05-05T22:11:59+08:00</lastmod>
   </url><url>
     <loc>https://wsstriving.github.io/author/shuai-wang/</loc>
-    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
+    <lastmod>2023-05-05T22:11:59+08:00</lastmod>
   </url><url>
     <loc>https://wsstriving.github.io/</loc>
-    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
+    <lastmod>2023-05-05T22:11:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -85,10 +82,22 @@
                 href="https://wsstriving.github.io/"
                 />
   </url><url>
-    <loc>https://wsstriving.github.io/author/xunying-liu/</loc>
-    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
+    <loc>https://wsstriving.github.io/author/xintao-zhao/</loc>
+    <lastmod>2023-05-05T22:11:59+08:00</lastmod>
   </url><url>
     <loc>https://wsstriving.github.io/author/yang-chao/</loc>
+    <lastmod>2023-05-05T22:11:59+08:00</lastmod>
+  </url><url>
+    <loc>https://wsstriving.github.io/author/zhiyong-wu/</loc>
+    <lastmod>2023-05-05T22:11:59+08:00</lastmod>
+  </url><url>
+    <loc>https://wsstriving.github.io/publication/2022-is-emotion/</loc>
+    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
+  </url><url>
+    <loc>https://wsstriving.github.io/author/jinchao-li/</loc>
+    <lastmod>2022-06-14T22:13:59+08:00</lastmod>
+  </url><url>
+    <loc>https://wsstriving.github.io/author/xunying-liu/</loc>
     <lastmod>2022-06-14T22:13:59+08:00</lastmod>
   </url><url>
     <loc>https://wsstriving.github.io/author/bei-liu/</loc>
@@ -123,6 +132,24 @@
   </url><url>
     <loc>https://wsstriving.github.io/publication/2022-icassp-feats/</loc>
     <lastmod>2022-05-13T22:13:59+08:00</lastmod>
+  </url><url>
+    <loc>https://wsstriving.github.io/author/binbin-zhang/</loc>
+    <lastmod>2022-05-08T22:13:59+08:00</lastmod>
+  </url><url>
+    <loc>https://wsstriving.github.io/author/chengdong-liang/</loc>
+    <lastmod>2022-05-08T22:13:59+08:00</lastmod>
+  </url><url>
+    <loc>https://wsstriving.github.io/author/hongji-wang/</loc>
+    <lastmod>2022-05-08T22:13:59+08:00</lastmod>
+  </url><url>
+    <loc>https://wsstriving.github.io/publication/2023-icassp-wespeaker/</loc>
+    <lastmod>2022-05-08T22:13:59+08:00</lastmod>
+  </url><url>
+    <loc>https://wsstriving.github.io/author/xu-xiang/</loc>
+    <lastmod>2022-05-08T22:13:59+08:00</lastmod>
+  </url><url>
+    <loc>https://wsstriving.github.io/author/yanlei-deng/</loc>
+    <lastmod>2022-05-08T22:13:59+08:00</lastmod>
   </url><url>
     <loc>https://wsstriving.github.io/author/chao-yang/</loc>
     <lastmod>2021-09-28T20:42:06+08:00</lastmod>
@@ -199,9 +226,6 @@
     <loc>https://wsstriving.github.io/publication/2021-icassp-ttsaug1/</loc>
     <lastmod>2021-02-13T22:13:59+08:00</lastmod>
   </url><url>
-    <loc>https://wsstriving.github.io/author/xu-xiang/</loc>
-    <lastmod>2021-02-13T22:13:59+08:00</lastmod>
-  </url><url>
     <loc>https://wsstriving.github.io/publication/2021-taslp/</loc>
     <lastmod>2021-02-13T22:06:00+08:00</lastmod>
   </url><url>
@@ -212,9 +236,6 @@
     <lastmod>2020-07-30T22:46:42+08:00</lastmod>
   </url><url>
     <loc>https://wsstriving.github.io/publication/2020-is-spoof/</loc>
-    <lastmod>2020-07-28T20:42:06+08:00</lastmod>
-  </url><url>
-    <loc>https://wsstriving.github.io/author/hongji-wang/</loc>
     <lastmod>2020-07-28T20:42:06+08:00</lastmod>
   </url><url>
     <loc>https://wsstriving.github.io/author/yanmin-qian-and-kai-yu/</loc>

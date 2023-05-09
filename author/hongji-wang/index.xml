@@ -5,12 +5,20 @@
     <link>https://wsstriving.github.io/author/hongji-wang/</link>
       <atom:link href="https://wsstriving.github.io/author/hongji-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Hongji Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jul 2020 20:42:06 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 May 2022 22:13:59 +0800</lastBuildDate>
     <image>
       <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Hongji Wang</title>
       <link>https://wsstriving.github.io/author/hongji-wang/</link>
     </image>
+    
+    <item>
+      <title>Wespeaker: A Research and Production oriented Speaker Embedding Learning Toolkit</title>
+      <link>https://wsstriving.github.io/publication/2023-icassp-wespeaker/</link>
+      <pubDate>Sun, 08 May 2022 22:13:59 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2023-icassp-wespeaker/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dual-adversarial domain adaptation for generalized replay attack detection</title>
