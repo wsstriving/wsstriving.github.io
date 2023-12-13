@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qibing Bai | Work hard</title>
+    <link>https://wsstriving.github.io/author/qibing-bai/</link>
+      <atom:link href="https://wsstriving.github.io/author/qibing-bai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qibing Bai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2024 22:13:59 +0800</lastBuildDate>
+    <image>
+      <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Qibing Bai</title>
+      <link>https://wsstriving.github.io/author/qibing-bai/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging In-the-Wild Data for Effective Self-Supervised Pretraining in Speaker Recognition</title>
+      <link>https://wsstriving.github.io/publication/2024-icassp-shuaispeaker/</link>
+      <pubDate>Wed, 08 May 2024 22:13:59 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2024-icassp-shuaispeaker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

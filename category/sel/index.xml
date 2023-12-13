@@ -5,7 +5,7 @@
     <link>https://wsstriving.github.io/category/sel/</link>
       <atom:link href="https://wsstriving.github.io/category/sel/index.xml" rel="self" type="application/rss+xml" />
     <description>SEL</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 May 2023 22:13:59 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2024 22:13:59 +0800</lastBuildDate>
     <image>
       <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>SEL</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Wespeaker: A Research and Production oriented Speaker Embedding Learning Toolkit</title>
-      <link>https://wsstriving.github.io/publication/2023-icassp-wespeaker/</link>
-      <pubDate>Mon, 08 May 2023 22:13:59 +0800</pubDate>
-      <guid>https://wsstriving.github.io/publication/2023-icassp-wespeaker/</guid>
+      <title>Leveraging In-the-Wild Data for Effective Self-Supervised Pretraining in Speaker Recognition</title>
+      <link>https://wsstriving.github.io/publication/2024-icassp-shuaispeaker/</link>
+      <pubDate>Wed, 08 May 2024 22:13:59 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2024-icassp-shuaispeaker/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adversarial Speaker Disentanglement Using Unannotated External Data for Self-supervised Representation Based Voice Conversion</title>
-      <link>https://wsstriving.github.io/publication/2023-icme-vc/</link>
-      <pubDate>Fri, 05 May 2023 22:11:59 +0800</pubDate>
-      <guid>https://wsstriving.github.io/publication/2023-icme-vc/</guid>
+      <title>Speaker Representation Learning: Theories, Applications and Practice</title>
+      <link>https://wsstriving.github.io/talk/2023-icassp-wespeaker/</link>
+      <pubDate>Fri, 08 Dec 2023 09:00:00 +0800</pubDate>
+      <guid>https://wsstriving.github.io/talk/2023-icassp-wespeaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wespeaker: A Research and Production oriented Speaker Embedding Learning Toolkit</title>
+      <link>https://wsstriving.github.io/publication/2023-icassp-wespeaker/</link>
+      <pubDate>Mon, 08 May 2023 22:13:59 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2023-icassp-wespeaker/</guid>
       <description></description>
     </item>
     

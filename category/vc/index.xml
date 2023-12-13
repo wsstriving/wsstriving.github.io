@@ -5,12 +5,36 @@
     <link>https://wsstriving.github.io/category/vc/</link>
       <atom:link href="https://wsstriving.github.io/category/vc/index.xml" rel="self" type="application/rss+xml" />
     <description>vc</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 20:42:06 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2024 22:13:59 +0800</lastBuildDate>
     <image>
       <url>https://wsstriving.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>vc</title>
       <link>https://wsstriving.github.io/category/vc/</link>
     </image>
+    
+    <item>
+      <title>DualVC 2: Dynamic Masked Convolution for Unified Streaming and Non-Streaming Voice Conversion</title>
+      <link>https://wsstriving.github.io/publication/2024-icassp-dualvc2/</link>
+      <pubDate>Wed, 08 May 2024 22:13:59 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2024-icassp-dualvc2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Speaker Disentanglement Using Unannotated External Data for Self-supervised Representation Based Voice Conversion</title>
+      <link>https://wsstriving.github.io/publication/2023-is-dualvc/</link>
+      <pubDate>Thu, 18 May 2023 22:11:59 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2023-is-dualvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Speaker Disentanglement Using Unannotated External Data for Self-supervised Representation Based Voice Conversion</title>
+      <link>https://wsstriving.github.io/publication/2023-icme-vc/</link>
+      <pubDate>Fri, 05 May 2023 22:11:59 +0800</pubDate>
+      <guid>https://wsstriving.github.io/publication/2023-icme-vc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Non-Parallel Any-to-Many Voice Conversion by Replacing Speaker Statistics</title>
